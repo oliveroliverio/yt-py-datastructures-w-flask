@@ -1,0 +1,9 @@
+scipy
+matplotlib
+numpy
+pandas
+pytest
+ipykernel
+autopep8
+streamlit
+flask
